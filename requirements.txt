@@ -1,7 +1,7 @@
 # Market Data & Analysis
 yfinance>=0.2.36
 pandas>=2.2.0
-pandas-ta>=0.3.14b0
+pandas-ta @ git+https://github.com/twopirllc/pandas-ta.git@main
 
 # Async HTTP & Parsing (for NSE JSON APIs)
 httpx>=0.27.0
